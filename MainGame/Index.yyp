@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "c788f1e4-d114-4895-b830-b9cba362c902",
+            "Value": {
+                "id": "f90aa015-6713-4633-90c1-c9523bfd2967",
+                "resourcePath": "sprites\\knight_attack\\knight_attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "77cd44f7-80e3-4fd4-92de-90c157492f21",
