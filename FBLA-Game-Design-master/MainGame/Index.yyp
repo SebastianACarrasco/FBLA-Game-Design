@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "28ef8858-c203-41b3-8567-0835bd8d91a0",
+            "Value": {
+                "id": "e66c864c-e001-4de8-99cb-8a41f2a6df10",
+                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "30c79bbb-f6e5-4e01-9d9b-c78d0a06384e",
             "Value": {
                 "id": "4def55e3-118c-4969-ac7c-48c33fe4a6ac",
@@ -95,11 +103,27 @@
             }
         },
         {
+            "Key": "499aebe1-2ff1-4502-bce6-cc717494984c",
+            "Value": {
+                "id": "b30bf71a-2f76-4e35-9d2c-be80f7c16177",
+                "resourcePath": "sprites\\spr_warp\\spr_warp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "52983f29-9756-4234-bf4f-723ebf7b935a",
             "Value": {
                 "id": "9d38d52c-1f6c-4832-824c-218065ca698f",
                 "resourcePath": "views\\52983f29-9756-4234-bf4f-723ebf7b935a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5ae96f58-09b0-4e78-822e-8ff9d3f7f6d1",
+            "Value": {
+                "id": "fe382e4f-46dc-4942-8087-38dd8f65466d",
+                "resourcePath": "objects\\obj_warp\\obj_warp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -124,6 +148,14 @@
                 "id": "cfb6b3a9-794e-4d4b-b534-9347b0786907",
                 "resourcePath": "sprites\\srpPlayerIdle\\srpPlayerIdle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "70b4130c-be62-4a61-9e0b-4945321f17cd",
+            "Value": {
+                "id": "9c9a4208-fb46-4749-92f1-f96daea33f71",
+                "resourcePath": "rooms\\roomBoss\\roomBoss.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -164,6 +196,14 @@
                 "id": "c895d257-851f-4097-85ad-8c4d903b3465",
                 "resourcePath": "views\\9ddfe80f-4167-49e7-b502-9c9d4d5d18f9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ed8966a-b383-4aa7-a9cd-703addc01e9b",
+            "Value": {
+                "id": "0883faa9-b156-4919-a120-16c5dfbbb6ba",
+                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
