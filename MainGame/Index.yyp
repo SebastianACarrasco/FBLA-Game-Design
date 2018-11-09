@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "3c76b349-5a83-4c00-8779-36a7b4acb5a5",
+            "Value": {
+                "id": "d2ac3041-287f-4617-b970-62f1efcbe2a4",
+                "resourcePath": "sprites\\walk\\walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ef14110-649a-4c5a-88a8-111de8a891f5",
             "Value": {
                 "id": "30eb0b6a-4d21-4b4c-88ff-5fc6cf0f5d76",
@@ -87,6 +95,14 @@
             }
         },
         {
+            "Key": "5d066624-271d-4219-a811-730051b29958",
+            "Value": {
+                "id": "52da9bd8-4339-4bf8-be3b-4d5b2f0fd832",
+                "resourcePath": "sprites\\attack1\\attack1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "66bdd6d6-38a7-40e1-9491-23e6a2613209",
             "Value": {
                 "id": "b4b0a664-70a1-456b-a758-a61c9e00248b",
@@ -95,10 +111,17 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "6e0d081e-7c7a-434a-a740-b9be1c7c3e1e",
             "Value": {
                 "id": "91a0d34e-8f73-4816-ae01-2b65245e5a85",
                 "resourcePath": "sprites\\spr_Room0\\spr_Room0.yy",
+=======
+            "Key": "68fc2bd6-05a9-4b95-8c52-d823cc2630c7",
+            "Value": {
+                "id": "cfb6b3a9-794e-4d4b-b534-9347b0786907",
+                "resourcePath": "sprites\\srpPlayerIdle\\srpPlayerIdle.yy",
+>>>>>>> master
                 "resourceType": "GMSprite"
             }
         },
@@ -108,6 +131,22 @@
                 "id": "ac33da05-2ee3-4c6f-a24a-074f56eb522d",
                 "resourcePath": "views\\7755a590-86e9-405c-bcdc-209f695463ca.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7fda2634-3ab9-40e5-a648-620834d7d93e",
+            "Value": {
+                "id": "6c896dc0-4bbf-4435-bc30-841f006d0962",
+                "resourcePath": "sprites\\srpPlayerIdle1\\srpPlayerIdle1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "85875674-f525-40a7-a296-6d14020ef032",
+            "Value": {
+                "id": "b2365c5e-3340-4e2a-98b8-f44a33b8507a",
+                "resourcePath": "sprites\\walkright\\walkright.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -135,6 +174,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "b0b13b6a-8d6d-4138-ae06-8d04e3abbe81",
             "Value": {
                 "id": "767d4a24-6253-4675-9467-12108f84bc56",
@@ -143,6 +183,8 @@
             }
         },
         {
+=======
+>>>>>>> master
             "Key": "b6e45802-13d1-456f-b7bf-cf10648b5a6a",
             "Value": {
                 "id": "3443cbbe-e804-4588-9a70-9febd61c56ab",
@@ -183,6 +225,22 @@
             }
         },
         {
+            "Key": "db1ca57a-b96e-4dde-97f5-8fc225917be7",
+            "Value": {
+                "id": "cefdf722-b2f3-4b67-97d3-aa3fc5149637",
+                "resourcePath": "sprites\\attack\\attack.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1f1e55c-02c1-416d-9dc0-9e9a24f75795",
+            "Value": {
+                "id": "1ee9b7c1-c274-4939-a683-6e08d2a90a50",
+                "resourcePath": "scripts\\script0\\script0.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "eeffbe05-363f-4ef6-9851-9b07ab22168e",
             "Value": {
                 "id": "ca9977e2-47ee-4954-ac02-249d5e2ad5ef",
@@ -205,10 +263,18 @@
                 "resourcePath": "views\\f92abada-1601-4e15-bd89-5bcc523fd3fe.yy",
                 "resourceType": "GMFolder"
             }
+        },
+        {
+            "Key": "f99f84bd-2113-4b1b-af1b-9364c374b2a1",
+            "Value": {
+                "id": "bb105428-45a5-4521-ad8b-786e8e86b7af",
+                "resourcePath": "objects\\object0\\object0.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "script_order": [
-        
+        "e1f1e55c-02c1-416d-9dc0-9e9a24f75795"
     ],
     "tutorial": ""
 }
