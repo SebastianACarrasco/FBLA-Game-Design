@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1c757837-d8d9-4c77-a76d-ab8f2faeb62a",
+            "Value": {
+                "id": "cd7d858b-e4d5-4190-b5c6-4b8c56ded93a",
+                "resourcePath": "sprites\\spr_Player_Attack_Right\\spr_Player_Attack_Right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28ef8858-c203-41b3-8567-0835bd8d91a0",
             "Value": {
                 "id": "e66c864c-e001-4de8-99cb-8a41f2a6df10",
@@ -60,6 +68,14 @@
                 "id": "4def55e3-118c-4969-ac7c-48c33fe4a6ac",
                 "resourcePath": "views\\30c79bbb-f6e5-4e01-9d9b-c78d0a06384e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "369b6394-f6d4-4530-a7db-1937e00c1a4c",
+            "Value": {
+                "id": "5dbd986e-9e43-4582-9119-4e7dbbaad489",
+                "resourcePath": "sprites\\spr_Player_Walk_Right\\spr_Player_Walk_Right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -159,11 +175,27 @@
             }
         },
         {
+            "Key": "72b62e64-6879-4692-b941-2c92d7aba502",
+            "Value": {
+                "id": "b3c051c2-95f8-4ec2-aa15-d7d3d72ed066",
+                "resourcePath": "sprites\\spr_Player_Walk_Left\\spr_Player_Walk_Left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7755a590-86e9-405c-bcdc-209f695463ca",
             "Value": {
                 "id": "ac33da05-2ee3-4c6f-a24a-074f56eb522d",
                 "resourcePath": "views\\7755a590-86e9-405c-bcdc-209f695463ca.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7f8cc1d0-5d0e-40fb-850b-0c7ab74dab24",
+            "Value": {
+                "id": "36e0bed6-c58b-468b-8add-0eab635c9d69",
+                "resourcePath": "sprites\\spr_Player_Attack_Left\\spr_Player_Attack_Left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -231,11 +263,35 @@
             }
         },
         {
+            "Key": "b89ef556-77f2-4795-8fd5-2e6724fad3a8",
+            "Value": {
+                "id": "a08e6d14-5a85-46de-ae06-788d876d6d37",
+                "resourcePath": "sprites\\spr_Player_Idle_Left\\spr_Player_Idle_Left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c046d479-245e-4d9f-b39a-f8aeff8d9d42",
             "Value": {
                 "id": "a8534712-3576-4a03-8dd9-87b2536488a4",
                 "resourcePath": "views\\c046d479-245e-4d9f-b39a-f8aeff8d9d42.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5927b93-0a87-4228-a660-c3f9be8c78da",
+            "Value": {
+                "id": "c3af3460-b78f-4e70-ad6e-76646552f9e3",
+                "resourcePath": "objects\\Player_Knight\\Player_Knight.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c8aa8f27-289e-4085-a336-8b52bfc8c8fc",
+            "Value": {
+                "id": "e09f5d3a-f6cd-432b-ae82-55557f84de9a",
+                "resourcePath": "sprites\\spr_Player_Idle_Right\\spr_Player_Idle_Right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
