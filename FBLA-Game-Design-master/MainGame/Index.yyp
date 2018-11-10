@@ -143,14 +143,6 @@
             }
         },
         {
-            "Key": "47a67653-bc3c-489b-901e-66d67ebfaf6d",
-            "Value": {
-                "id": "5012f033-7c51-4f30-bbce-6fb6f2f60e52",
-                "resourcePath": "fonts\\fnt_Menu\\fnt_Menu.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "499aebe1-2ff1-4502-bce6-cc717494984c",
             "Value": {
                 "id": "b30bf71a-2f76-4e35-9d2c-be80f7c16177",
@@ -188,14 +180,6 @@
                 "id": "52da9bd8-4339-4bf8-be3b-4d5b2f0fd832",
                 "resourcePath": "sprites\\attack1\\attack1.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "630d9799-d1ce-48eb-97ef-4df50b3fc7a0",
-            "Value": {
-                "id": "de89b651-b9ca-4fd4-9c9c-7d60b21f2c78",
-                "resourcePath": "objects\\Player_KnightDUP\\Player_KnightDUP.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -311,14 +295,6 @@
             }
         },
         {
-            "Key": "9ec3f1f2-6016-48a9-afba-9a942bc2d638",
-            "Value": {
-                "id": "523fdf66-1a72-467c-9fb2-e2d97bb2e011",
-                "resourcePath": "objects\\obj_Menu\\obj_Menu.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "9ed8966a-b383-4aa7-a9cd-703addc01e9b",
             "Value": {
                 "id": "0883faa9-b156-4919-a120-16c5dfbbb6ba",
@@ -332,14 +308,6 @@
                 "id": "959e6562-9539-41d6-b8e9-e322eb1efcdd",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
-            }
-        },
-        {
-            "Key": "acba89a3-099a-48e6-b987-23a22a1592f4",
-            "Value": {
-                "id": "97b23c4a-5051-47fa-894c-bbee25d88377",
-                "resourcePath": "rooms\\Menu\\Menu.yy",
-                "resourceType": "GMRoom"
             }
         },
         {
@@ -380,14 +348,6 @@
                 "id": "c3af3460-b78f-4e70-ad6e-76646552f9e3",
                 "resourcePath": "objects\\Player_Knight\\Player_Knight.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "c787f7ef-5693-4721-99da-c88c063cd459",
-            "Value": {
-                "id": "7b641cd7-ee07-49f0-8f93-7ffdb8a98dab",
-                "resourcePath": "sounds\\snd_menuSwitch\\snd_menuSwitch.yy",
-                "resourceType": "GMSound"
             }
         },
         {
@@ -447,14 +407,6 @@
             }
         },
         {
-            "Key": "ebb7506e-dd02-4614-9ef0-4d22172878da",
-            "Value": {
-                "id": "9e6bf72a-d4cd-48a5-8d67-4bb3e1ff94cc",
-                "resourcePath": "sprites\\spr_menu\\spr_menu.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "eeffbe05-363f-4ef6-9851-9b07ab22168e",
             "Value": {
                 "id": "ca9977e2-47ee-4954-ac02-249d5e2ad5ef",
@@ -468,14 +420,6 @@
                 "id": "d824342e-1b92-434c-9aa7-ade9a6a107e8",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
-            }
-        },
-        {
-            "Key": "f6eef7a7-905b-462d-855b-d6143c4a6e18",
-            "Value": {
-                "id": "d03b6ad7-e05e-4550-9589-80cfb8fac653",
-                "resourcePath": "scripts\\scr_menu\\scr_menu.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -493,19 +437,10 @@
                 "resourcePath": "objects\\object0\\object0.yy",
                 "resourceType": "GMObject"
             }
-        },
-        {
-            "Key": "fba1617f-78c9-41c5-8424-f52df72d73d3",
-            "Value": {
-                "id": "e46d57b8-4e80-431d-92e7-d2d21ebc0bdd",
-                "resourcePath": "views\\fba1617f-78c9-41c5-8424-f52df72d73d3.yy",
-                "resourceType": "GMFolder"
-            }
         }
     ],
     "script_order": [
-        "e1f1e55c-02c1-416d-9dc0-9e9a24f75795",
-        "f6eef7a7-905b-462d-855b-d6143c4a6e18"
+        "e1f1e55c-02c1-416d-9dc0-9e9a24f75795"
     ],
     "tutorial": ""
 }
