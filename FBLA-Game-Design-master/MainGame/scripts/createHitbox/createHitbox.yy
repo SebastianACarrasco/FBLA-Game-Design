@@ -1,8 +1,8 @@
 {
-    "id": "e1f1e55c-02c1-416d-9dc0-9e9a24f75795",
+    "id": "8f4ad9da-55d4-4aca-ad5c-3168c6c655d0",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "script0",
+    "name": "createHitbox",
     "IsCompatibility": false,
     "IsDnD": true
 }

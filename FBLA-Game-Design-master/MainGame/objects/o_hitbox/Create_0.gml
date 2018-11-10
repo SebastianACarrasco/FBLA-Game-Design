@@ -8,5 +8,7 @@ bosshp = 100;
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 783C9C6B
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)"
-/// @description Execute Code
+/// @DnDArgument : "code" "creator = noone;$(13_10)knockback = 1;$(13_10)damage = 1;$(13_10)"
+creator = noone;
+knockback = 1;
+damage = 1;

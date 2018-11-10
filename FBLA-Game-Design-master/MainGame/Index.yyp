@@ -58,7 +58,7 @@
             "Key": "232376e1-e286-48f7-9c70-694e1fae408e",
             "Value": {
                 "id": "cd83f79f-4039-4125-bcfc-293964e8ce4d",
-                "resourcePath": "objects\\hitbox\\hitbox.yy",
+                "resourcePath": "objects\\o_hitbox\\o_hitbox.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "8f4ad9da-55d4-4aca-ad5c-3168c6c655d0",
+            "Value": {
+                "id": "78fdac42-1e6d-496e-b49a-c72f2ed62412",
+                "resourcePath": "scripts\\createHitbox\\createHitbox.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "91bb518f-967b-45eb-90e3-70d3cd32e256",
             "Value": {
                 "id": "088fa832-9d44-4542-be16-c3be08c817af",
@@ -391,14 +399,6 @@
             }
         },
         {
-            "Key": "e1f1e55c-02c1-416d-9dc0-9e9a24f75795",
-            "Value": {
-                "id": "1ee9b7c1-c274-4939-a683-6e08d2a90a50",
-                "resourcePath": "scripts\\script0\\script0.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "e69fa913-e526-4e75-bb5c-4db7dabd9414",
             "Value": {
                 "id": "767bba86-a019-487c-bfc3-cfd6d2ddb0a4",
@@ -440,7 +440,7 @@
         }
     ],
     "script_order": [
-        "e1f1e55c-02c1-416d-9dc0-9e9a24f75795"
+        "8f4ad9da-55d4-4aca-ad5c-3168c6c655d0"
     ],
     "tutorial": ""
 }
