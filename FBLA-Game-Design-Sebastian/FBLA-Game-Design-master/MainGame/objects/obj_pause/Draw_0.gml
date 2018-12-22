@@ -7,7 +7,6 @@ if (pause)	{
 	draw_text(room_width/2, room_height/2, "Pause");
 	draw_set_color(c_black);
 }
-
 /*var o = 0;
 repeat(buttons1)	{
 	//customize button layout/look

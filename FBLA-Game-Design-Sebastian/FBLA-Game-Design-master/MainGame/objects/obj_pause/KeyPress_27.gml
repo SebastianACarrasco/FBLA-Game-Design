@@ -1,4 +1,4 @@
-if (!pause)	{
+/*if (!pause)	{
 	pause = 1;
 	instance_deactivate_all(true);
 	//physics_world_update_speed(0);
@@ -23,3 +23,5 @@ if (!pause)	{
 	
 	
 }
+*/
+game_end();
