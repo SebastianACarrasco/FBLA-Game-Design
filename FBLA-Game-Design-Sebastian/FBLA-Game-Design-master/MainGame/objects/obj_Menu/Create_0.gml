@@ -1,5 +1,3 @@
-
-
 menu_x = x;
 menu_y = y;
 button_h = 42;
