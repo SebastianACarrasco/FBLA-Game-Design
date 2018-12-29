@@ -14,13 +14,13 @@ switch(menu_index)	{
 	//Help
 	case 2: 
 	{
-		
+		room_goto(Help);
 		break;
 	}
 	//Credits (Might not need)
 	case 3:
 	{
-		
+		room_goto(Credits);
 		break;
 	}
 	//Exit
