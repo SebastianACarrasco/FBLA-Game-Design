@@ -3,7 +3,7 @@ menu_y = y;
 button_h = 42;
 
 //Help page
-help[0] = "Use the spacebar to attack enemies \n \n \n \n \n \n \n Use the arrowkeys to move your knight";
+help[0] = "Click on the mouse to attack enemies \n \n \n \n \n \n \n Use the arrowkeys to move your knight";
 
 
 //buttons

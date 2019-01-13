@@ -1,2 +1,2 @@
 //Pause Menu
-pause = 0;
+pause = 0

@@ -5,26 +5,20 @@ switch(menu_index)	{
 		room_goto_next();
 		break;
 	}
-	//Load game
-	case 1:
-	{
-		
-		break;
-	}
 	//Help
-	case 2: 
+	case 1: 
 	{
 		room_goto(Help);
 		break;
 	}
-	//Credits (Might not need)
-	case 3:
+	//Credits
+	case 2:
 	{
 		room_goto(Credits);
 		break;
 	}
 	//Exit
-	case 4:
+	case 3:
 	{
 		game_end();
 		break;
