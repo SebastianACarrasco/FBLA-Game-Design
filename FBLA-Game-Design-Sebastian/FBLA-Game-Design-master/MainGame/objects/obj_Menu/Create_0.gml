@@ -4,10 +4,9 @@ button_h = 42;
 
 //buttons
 button[0] = "Start";
-button[1] = "Load Game";
-button[2] = "Help";
-button[3] = "Credits";
-button[4] = "Exit";
+button[1] = "Help";
+button[2] = "Credits";
+button[3] = "Exit";
 buttons = array_length_1d(button);
 
 menu_index = 0;
