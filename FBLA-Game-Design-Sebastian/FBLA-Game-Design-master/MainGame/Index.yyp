@@ -375,6 +375,14 @@
             }
         },
         {
+            "Key": "655e9b61-0ae2-46c1-adb4-6a0f4a576bf7",
+            "Value": {
+                "id": "494f915b-f4d5-42ae-8544-0a3cbf382540",
+                "resourcePath": "sprites\\box\\box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "66bdd6d6-38a7-40e1-9491-23e6a2613209",
             "Value": {
                 "id": "b4b0a664-70a1-456b-a758-a61c9e00248b",
@@ -524,6 +532,14 @@
                 "id": "7e2b420e-1aab-4b9a-9cc9-7f90bd1541f1",
                 "resourcePath": "fonts\\instructions_font\\instructions_font.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "90ab2a39-0697-49ab-b429-98f4f778cd15",
+            "Value": {
+                "id": "0106a305-1cea-43ed-b5ce-b457710cc02f",
+                "resourcePath": "objects\\obj_player_hp\\obj_player_hp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -743,6 +759,14 @@
             }
         },
         {
+            "Key": "caf1f601-02fc-4041-b094-1cb1d985bcb8",
+            "Value": {
+                "id": "38991eb9-d7bb-4ef1-b368-61ec8afca888",
+                "resourcePath": "objects\\obj_slime\\obj_slime.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "77cd44f7-80e3-4fd4-92de-90c157492f21",
@@ -868,6 +892,14 @@
                 "id": "bb105428-45a5-4521-ad8b-786e8e86b7af",
                 "resourcePath": "objects\\object0\\object0.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fb9aaea0-a672-4c83-978b-906eaf002730",
+            "Value": {
+                "id": "a555aeee-adee-4b5f-afc3-e2a8c7e9f5a5",
+                "resourcePath": "sprites\\spr_green_slime\\spr_green_slime.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
