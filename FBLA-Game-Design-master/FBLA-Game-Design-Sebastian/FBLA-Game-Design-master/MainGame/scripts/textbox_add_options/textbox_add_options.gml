@@ -21,6 +21,7 @@ with(textbox) {
 		optioncount = 3;
 	}
 	options_set = true;
+	
 }
 
 

@@ -39,6 +39,13 @@ with(textbox) {
 		if argument_count >= 5 {
 			ifoptionthird3 = argument[4];
 		}
+		/*checker1 = argument[3];
+		checker2 = argument[4];
+		checker3 = argument[5];
+		
+		global.checker1 = checker1
+		global.checker2 = checker2
+		global.checker3 = checker3*/
 	}
 }
 

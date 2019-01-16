@@ -36,9 +36,15 @@ BossCorrect = 0;
 		
 		
 				//adds one to correct answers
-				if chooses_option() == 3   {
+				if chooses_option() = 3   {
+					with(Boss){
 					BossCorrect += 1;
+					}
 				}
+				
+				/*if global.checker = "You are correct!"{
+					instance_destroy();
+				}*/
 				
 			} else
 			if (Sky == SkyBossQuestions[1])	{
@@ -49,9 +55,12 @@ BossCorrect = 0;
 			textbox_change_message_according_option(1, 1, "Wrong", "You are correct!", "Wrong");
 			
 				//adds one to correct answers
-				if chooses_option() == 2  {
-					BossCorrect += 1;
+				if chooses_option() = 2  {
+					with(Boss){
+						BossCorrect += 1;
+					}
 				}
+				
 				
 			} else
 			if (Sky == SkyBossQuestions[2])	{
@@ -62,8 +71,10 @@ BossCorrect = 0;
 			textbox_change_message_according_option(1, 1, "You are correct!", "Wrong");
 			
 				//adds one to correct answers
-				if chooses_option() == 1  {
-					BossCorrect += 1;
+				if chooses_option() = 1  {
+					with(Boss){
+						BossCorrect += 1;
+					}
 				}
 				
 			} else
@@ -75,17 +86,21 @@ BossCorrect = 0;
 			textbox_change_message_according_option(1, 1, "You are correct!", "Wrong", "Wrong");
 			
 				//adds one to correct answers
-				if chooses_option() == 1  {
+				if chooses_option() = 1  {
+					with(Boss){
 					BossCorrect += 1;
+					}
 				}
 				
 			}
 			//uses x to skip text and space to continue
 			textbox_set_key(vk_space,ord("X"));
-			if BossCorrect == 2	{
+			if BossCorrect = 2	{
 				with(textbox){
 				instance_destroy();
 				}
+				with(Boss)
+				instance_destroy();
 			}
 	}
 	
