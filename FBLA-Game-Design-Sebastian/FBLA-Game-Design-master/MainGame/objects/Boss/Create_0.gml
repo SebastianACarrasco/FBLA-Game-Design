@@ -17,13 +17,3 @@ SkyBossQuestions[0] = "You must wear your professional attire at:"
 SkyBossQuestions[1] = "What is the purpose for wearing business outfits?"
 SkyBossQuestions[2] = "Can one wear a neck or bow tie?"
 SkyBossQuestions[3] = "Someone can be excused from not having to wear a business outfit"
-
-SkyBossRiot = irandom(array_length_1d(4));
-Sky = SkyBossQuestions[SkyBossRiot]
-
-	//randomly get a value that corresponds to array len
-	randomize()
-	var a = irandom(3)
-	SkyBossRiot = a
-	Sky = SkyBossQuestions[SkyBossRiot]
-
