@@ -8,14 +8,12 @@ if instance_exists(textbox){
 	global.textbox_exist = 0;
 }
 
-	//if (distance_to_object(Player_Knight) < 100) {
+	if (distance_to_object(Player_Knight) < 100) {
 	  //if instance_exists(Boss)	{		
 		  
-	  if place_meeting(x-150,y, Player_Knight)	{
-		  
-		 //Check if it's created 
-		if !textbox_exists() {
-			//randomly get a value that corresponds to array len
+	  //if place_meeting(x-150,y, Player_Knight)	{
+		  if !textbox_exists() {
+							//randomly get a value that corresponds to array len
 			randomize()
 			var a = irandom(3)
 			SkyBossRiot = a
@@ -27,6 +25,11 @@ if instance_exists(textbox){
 			
 			//Set things of the textbox
 			textbox_set(c_black,c_white,c_red,1,example_font,spr_rand);
+			//uses x to skip text and space to continue
+			textbox_set_key(vk_space,ord("X"));
+			
+		}
+		  if BossCorrect = 0 or BossCorrect = 1	{
 
 			//This script adds options to the dialogue depending on questions displayed
 			if (Sky == SkyBossQuestions[0])	{
@@ -37,7 +40,14 @@ if instance_exists(textbox){
 		
 		
 				//adds one to correct answers
+			if chooses_option() = 3	{
+				
 			
+				with(Boss)	{
+					BossCorrect += 1;
+					//show_message(BossCorrect)
+				}
+			}
 			
 				
 			} else
@@ -49,7 +59,12 @@ if instance_exists(textbox){
 			textbox_change_message_according_option(1, 1, "Wrong", "You are correct!", "Wrong");
 			
 				//adds one to correct answers
-				
+			if chooses_option() = 2	{
+				with(Boss)	{
+					BossCorrect += 1;
+					//show_message(BossCorrect)
+				}
+			}
 
 				
 			} else
@@ -61,7 +76,12 @@ if instance_exists(textbox){
 			textbox_change_message_according_option(1, 1, "You are correct!", "Wrong");
 			
 				//adds one to correct answers
-	
+				if chooses_option() = 1	{
+				with(Boss)	{
+					BossCorrect += 1;
+					//show_message(BossCorrect)
+				}
+			}
 
 				
 			} else
@@ -73,15 +93,19 @@ if instance_exists(textbox){
 			textbox_change_message_according_option(1, 1, "You are correct!", "Wrong", "Wrong");
 			
 				//adds one to correct answers
+			if chooses_option() = 1	{
+				with(Boss)	{
+					BossCorrect += 1;
+					//show_message(BossCorrect)
+				}
+			}
 
-
 			}
-			with (textbox)	{
-				instance_destroy();
-			}
-			//uses x to skip text and space to continue
-			textbox_set_key(vk_space,ord("X"));
-			}
+		  }else if BossCorrect = 2{
+			  with (textbox)	{
+			  instance_destroy();
+			  }
+			  instance_destroy();
+		  }
 		
 	}
-   
