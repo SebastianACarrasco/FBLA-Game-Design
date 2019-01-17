@@ -10,13 +10,12 @@
 
 
 with(textbox) {
-	name = argument[0];
-	general_colour = argument[1];
-	text_colour = argument[2];
-	outline_colour = argument[3];
-	alpha = argument[4];
-	font = argument[5];
-	sprite = argument[6];
+	general_colour = argument[0];
+	text_colour = argument[1];
+	outline_colour = argument[2];
+	alpha = argument[3];
+	font = argument[4];
+	sprite = argument[5];
 	
 	mode = "box";
 }
