@@ -106,6 +106,8 @@ if instance_exists(textbox){
 			  instance_destroy();
 			  }
 			  instance_destroy();
+			  
+			  Player_Knight.player_hp = 100;
 		  }
 		
 	}
