@@ -10,7 +10,7 @@ global.hp = 100;
 
 global.hp = 100;
 
-qAns = ds_list_create();
+//qAns = ds_list_create();
 BossCorrect = 0;
 //array with questions. It gets a random subscript number and displays what is in it
 //Copy and paste into enemies for every level with new array with questions

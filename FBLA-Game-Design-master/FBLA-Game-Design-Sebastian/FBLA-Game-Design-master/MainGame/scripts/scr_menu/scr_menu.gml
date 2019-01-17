@@ -1,14 +1,14 @@
 switch(menu_index)	{
-	//Start
+	//Help
 	case 0:
 	{
-		room_goto_next();
+		room_goto(Help);
 		break;
 	}
-	//Help
+	//Start
 	case 1: 
 	{
-		room_goto(Help);
+		room_goto_next();
 		break;
 	}
 	//Credits
